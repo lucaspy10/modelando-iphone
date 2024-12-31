@@ -13,7 +13,7 @@ public class Iphone {
 		iphone.Pausar();
 		
 		iphone1.Atender();
-		iphone1.Ligar("11959832646");
+		iphone1.Ligar("11958957454");
 		
 		iphone2.exibirPagina("google.com");
 		iphone2.adicionarNovaAba();
